@@ -16,8 +16,6 @@ import java.time.LocalDateTime;
  * <p>
  * 优惠券使用、领取历史表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

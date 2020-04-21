@@ -14,8 +14,6 @@ import java.io.Serializable;
  * <p>
  * 后台用户和角色关系表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

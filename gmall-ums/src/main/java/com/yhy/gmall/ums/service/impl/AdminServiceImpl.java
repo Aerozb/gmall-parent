@@ -16,8 +16,6 @@ import org.springframework.util.DigestUtils;
  * <p>
  * 后台用户表 服务实现类
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Service

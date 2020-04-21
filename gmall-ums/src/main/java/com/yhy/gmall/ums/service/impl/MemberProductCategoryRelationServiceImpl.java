@@ -10,8 +10,6 @@ import org.springframework.stereotype.Service;
  * <p>
  * 会员与产品分类关系表（用户喜欢的分类） 服务实现类
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Service

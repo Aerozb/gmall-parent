@@ -16,8 +16,6 @@ import java.math.BigDecimal;
  * <p>
  * 商品限时购与商品关系表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

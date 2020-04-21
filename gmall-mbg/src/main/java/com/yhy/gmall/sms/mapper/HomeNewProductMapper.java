@@ -7,8 +7,6 @@ import com.yhy.gmall.sms.entity.HomeNewProduct;
  * <p>
  * 新鲜好物表 Mapper 接口
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 public interface HomeNewProductMapper extends BaseMapper<HomeNewProduct> {

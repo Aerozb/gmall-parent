@@ -16,8 +16,6 @@ import java.math.BigDecimal;
  * <p>
  * 会员等级表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

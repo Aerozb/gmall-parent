@@ -14,8 +14,6 @@ import java.io.Serializable;
  * <p>
  * 会员与产品分类关系表（用户喜欢的分类）
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

@@ -16,8 +16,6 @@ import java.math.BigDecimal;
  * <p>
  * 运费模版
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

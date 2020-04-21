@@ -7,8 +7,6 @@ import com.yhy.gmall.cms.entity.MemberReport;
  * <p>
  * 用户举报表 服务类
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 public interface MemberReportService extends IService<MemberReport> {

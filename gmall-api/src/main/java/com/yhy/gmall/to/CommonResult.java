@@ -33,8 +33,6 @@ public class CommonResult {
         return this;
     }
 
-
-
     /**
      * 普通失败提示信息
      */

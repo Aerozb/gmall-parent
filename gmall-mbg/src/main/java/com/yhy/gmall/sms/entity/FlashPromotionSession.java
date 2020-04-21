@@ -17,8 +17,6 @@ import java.time.LocalTime;
  * <p>
  * 限时购场次表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

@@ -15,8 +15,6 @@ import java.io.Serializable;
  * <p>
  * 公司收发货地址表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

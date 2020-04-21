@@ -7,8 +7,6 @@ import com.yhy.gmall.cms.entity.Help;
  * <p>
  * 帮助表 Mapper 接口
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 public interface HelpMapper extends BaseMapper<Help> {

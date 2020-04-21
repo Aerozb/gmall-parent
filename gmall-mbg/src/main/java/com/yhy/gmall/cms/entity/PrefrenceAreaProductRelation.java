@@ -14,8 +14,6 @@ import java.io.Serializable;
  * <p>
  * 优选专区和产品关系表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

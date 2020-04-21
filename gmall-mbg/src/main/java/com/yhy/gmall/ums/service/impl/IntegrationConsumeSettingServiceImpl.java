@@ -10,8 +10,6 @@ import org.springframework.stereotype.Service;
  * <p>
  * 积分消费设置 服务实现类
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Service

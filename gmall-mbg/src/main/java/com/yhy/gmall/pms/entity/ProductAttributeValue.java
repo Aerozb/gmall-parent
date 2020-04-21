@@ -15,8 +15,6 @@ import java.io.Serializable;
  * <p>
  * 存储产品参数信息的表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

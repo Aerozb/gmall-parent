@@ -15,8 +15,6 @@ import java.io.Serializable;
  * <p>
  * 优惠券和产品的关系表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

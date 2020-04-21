@@ -14,8 +14,6 @@ import java.io.Serializable;
  * <p>
  * 人气推荐商品表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

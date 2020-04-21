@@ -16,8 +16,6 @@ import java.math.BigDecimal;
  * <p>
  * 订单中所包含的商品
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

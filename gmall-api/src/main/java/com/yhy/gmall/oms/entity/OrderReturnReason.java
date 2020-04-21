@@ -16,8 +16,6 @@ import java.time.LocalDateTime;
  * <p>
  * 退货原因表
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

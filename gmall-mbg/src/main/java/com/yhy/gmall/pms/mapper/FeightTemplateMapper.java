@@ -7,8 +7,6 @@ import com.yhy.gmall.pms.entity.FeightTemplate;
  * <p>
  * 运费模版 Mapper 接口
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 public interface FeightTemplateMapper extends BaseMapper<FeightTemplate> {

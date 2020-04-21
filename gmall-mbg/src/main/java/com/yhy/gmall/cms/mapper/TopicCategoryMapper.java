@@ -7,8 +7,6 @@ import com.yhy.gmall.cms.entity.TopicCategory;
  * <p>
  * 话题分类表 Mapper 接口
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 public interface TopicCategoryMapper extends BaseMapper<TopicCategory> {

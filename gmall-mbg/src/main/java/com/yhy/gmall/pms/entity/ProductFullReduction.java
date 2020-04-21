@@ -15,8 +15,6 @@ import java.math.BigDecimal;
  * <p>
  * 产品满减表(只针对同商品)
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data

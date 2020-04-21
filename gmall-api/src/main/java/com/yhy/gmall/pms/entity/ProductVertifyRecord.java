@@ -16,8 +16,6 @@ import java.time.LocalDateTime;
  * <p>
  * 商品审核记录
  * </p>
- *
- * @author ${author}
  * @since 2020-04-15
  */
 @Data
